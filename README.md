@@ -1,32 +1,78 @@
-## Hi there 👋
-# 💫 About Me:
-I'm an Automation Software Engineer, I love Python, Matlab, Simulink, AI and control systems.<br>
-- 🔭 I’m currently working as Embedded Software Engineer in Aerospace and Defense.
-- 🌱 I’m currently learning new ML models, docker enviroment, azure/aws cloud technology and data analysis python libraries such as scipykit, pandas, numpy.
+<h1 align="center">Hi 👋, I'm Giulio Lecci</h1>
+<h3 align="center">AI Engineer | Automation Specialist | Collaborator @Datapizza 🍕</h3>
 
-## 🌐 Socials:
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) [https://instagram.com/giulioleccii](https://www.instagram.com/giulioleccii/)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [https://linkedin.com/in/Giulio Lecci](https://www.linkedin.com/in/giulio-lecci-b45970237/)
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GiulioLecci11&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GiulioLecci11&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GiulioLecci11&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 I hold a **Master's degree in Automation Engineering** and a **Bachelor's in Computer Science Engineering**.  
+My academic journey involved system identification for **real-time control frameworks** and applying **reinforcement learning** to **SDN routing algorithms**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**GiulioLecci11/GiulioLecci11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently, I work at a **fast-paced AI startup**, focusing on:
 
-Here are some ideas to get you started:
+- 🔍 **Retrieval-Augmented Generation (RAG)** systems
+- 🧠 **LLM fine-tuning**, **LoRA**, **Few-shot learning**, and **prompt engineering**
+- 🤖 **AI agent architectures** and **speech-based interaction models**
+- 🧰 Infrastructure tools like **MCP**, **Azure**, **Docker**, and **CI/CD pipelines**
 
+🍕 I collaborate with **[Datapizza](https://www.datapizza.it/)**, bringing AI solutions and data-driven creativity to life.
 
+⚠️ **Note:** You may not see many public commits here — most of my work happens in **private repositories** (GitLab, enterprise cloud, and internal stacks).
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="left">🧠 Key Areas of Expertise:</h3>
+
+- **AI & Generative Models**: LLM fine-tuning, RAG systems, AI autonomous agents  
+- **Automation & Control**: Nonlinear control systems, embedded software, real-time AI  
+- **Robotics**: Reinforcement learning, ROS2, Micro-ROS, Gazebo  
+- **MLOps**: Model Context Protocol (MCP), CI/CD, Docker, Azure cloud  
+- **Languages & Tools**: Python, C++, SQL, MATLAB, Simulink, LangChain, Hugging Face
+
+---
+
+<h3 align="left">📚 Selected Projects & Research:</h3>
+
+- ✈️ Developed real-time control algorithms for **quadrotor drones**, published in a peer-reviewed paper  
+- 🔁 Designed **autonomous mobile robot systems** using **Reinforcement Learning**  
+- 🧪 Built RAG pipelines using **LangChain**, **Hugging Face** models, and enterprise data
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/giulio-lecci-b45970237/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giulio lecci" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/giulioleccii/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giulioleccii" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">🧰 Tech Stack:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simulink-F37726?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GiulioLecci11&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiulioLecci11&theme=shadow_blue&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiulioLecci11&layout=compact&theme=shadow_blue&hide_border=false" />
+</p>
