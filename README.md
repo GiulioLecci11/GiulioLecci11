@@ -8,12 +8,12 @@ My academic journey involved system identification for **real-time control frame
 
 🚀 Currently, I work at a **fast-paced AI startup**, focusing on:
 
-- 🔍 **Retrieval-Augmented Generation (RAG)** systems
-- 🧠 **LLM fine-tuning**, **LoRA**, **Few-shot learning**, and **prompt engineering**
-- 🤖 **AI agent architectures** and **speech-based interaction models**
+- 🔍 **Retrieval-Augmented Generation (RAG)** systems  
+- 🧠 **LLM fine-tuning**, **LoRA**, **Few-shot learning**, and **prompt engineering**  
+- 🤖 **AI agent architectures** and **speech-based interaction models**  
 - 🧰 Infrastructure tools like **MCP**, **Azure**, **Docker**, and **CI/CD pipelines**
 
-🍕 I collaborate with **[Datapizza](https://www.datapizza.it/)**, bringing AI solutions and data-driven creativity to life.
+🍕 On the side, I collaborate with **[Datapizza](https://www.datapizza.it/)**, bringing AI solutions and data-driven creativity to life.
 
 ⚠️ **Note:** You may not see many public commits here — most of my work happens in **private repositories** (GitLab, enterprise cloud, and internal stacks).
 
@@ -63,16 +63,4 @@ My academic journey involved system identification for **real-time control frame
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiulioLecci11&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiulioLecci11&theme=shadow_blue&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiulioLecci11&layout=compact&theme=shadow_blue&hide_border=false" />
 </p>
