@@ -13,7 +13,7 @@ My academic journey involved system identification for **real-time control frame
 - 🤖 **AI agent architectures** and **speech-based interaction models**  
 - 🧰 Infrastructure tools like **MCP**, **Azure**, **Docker**, and **CI/CD pipelines**
 
-🍕 On the side, I collaborate with **[Datapizza](https://www.datapizza.it/)**, bringing AI solutions and data-driven creativity to life.
+🍕 On the side, I collaborate with **[Datapizza](https://datapizza.tech/it/)**, bringing AI solutions and data-driven creativity to life.
 
 ⚠️ **Note:** You may not see many public commits here — most of my work happens in **private repositories** (GitLab, enterprise cloud, and internal stacks).
 
